@@ -1,1 +1,1 @@
-# PythonApplication7
+my daily training
